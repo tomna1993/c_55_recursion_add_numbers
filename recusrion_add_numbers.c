@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    
+    int number = get_int("Number: ");
 }
